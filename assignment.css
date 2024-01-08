@@ -1,0 +1,87 @@
+.img {
+    border-radius: 10px;
+    width: 1320px;
+    height: 600px;
+    background-size: cover;
+    margin: 50px auto 20px auto;
+    background: linear-gradient(180deg, #070211, rgba(7, 2, 17, 0.00) 100%), url('resources/Banner Image.png');
+}
+
+.happy {
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    padding: 205px 531px 383px 530px;
+    width: 259px;
+    height: 40px;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+.party {
+    top: 0;
+    left: 0;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    padding-left: 484px;
+    padding-top: 283px;
+    padding-right: 484px;
+    padding-bottom: 177px;
+    height: 190px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px
+}
+
+.discount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Deal {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal
+}
+
+.catagories {
+
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
+.img2 {
+
+    background-color: url('resources/new\ year.fig'),
+     lightgray 50% / cover no-repeat;
+    border-radius: 5px;
+    background-position: center;
+    padding-left: 550px;
+    padding-right: 398.1px;
+   
+
+}
+
