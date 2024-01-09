@@ -289,15 +289,13 @@
     line-height: normal;
     position: relative;
     display: flex;
-   
-
+    justify-content: flex-end; /* Change this line */
 }
 
-.container{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-    
+.container {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: right;
 }
